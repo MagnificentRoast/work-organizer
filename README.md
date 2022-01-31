@@ -10,6 +10,6 @@ The intended purpose of this application is that you will be shown today's date,
 
 ## Current functionality
 
-You will see that the times are there, you cannot see the date as of yet, and nothing gets saved. will add the functions within next update.
+You will see that the times are there, you cannot see the tasks you typed in when you refreshed the browser, but it does save what you typed in to the local storage.
 
 ![screenshot](assets/css/workdayscheduler.png)
